@@ -1,2 +1,2 @@
-// write your code belo
+// write your cowe belo
 console.log("Hello, World!")
