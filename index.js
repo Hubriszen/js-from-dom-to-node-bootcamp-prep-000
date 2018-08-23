@@ -1,3 +1,2 @@
-// write your code below!
-i cant believe this!
+// write your code belo
 console.log("Hello, World!")
